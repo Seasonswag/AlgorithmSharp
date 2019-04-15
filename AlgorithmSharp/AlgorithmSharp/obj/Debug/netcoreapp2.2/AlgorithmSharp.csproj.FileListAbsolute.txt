@@ -1,0 +1,11 @@
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\bin\Debug\netcoreapp2.2\AlgorithmSharp.deps.json
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\bin\Debug\netcoreapp2.2\AlgorithmSharp.runtimeconfig.json
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\bin\Debug\netcoreapp2.2\AlgorithmSharp.runtimeconfig.dev.json
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\bin\Debug\netcoreapp2.2\AlgorithmSharp.dll
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\bin\Debug\netcoreapp2.2\AlgorithmSharp.pdb
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\obj\Debug\netcoreapp2.2\AlgorithmSharp.csprojAssemblyReference.cache
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\obj\Debug\netcoreapp2.2\AlgorithmSharp.csproj.CoreCompileInputs.cache
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\obj\Debug\netcoreapp2.2\AlgorithmSharp.AssemblyInfoInputs.cache
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\obj\Debug\netcoreapp2.2\AlgorithmSharp.AssemblyInfo.cs
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\obj\Debug\netcoreapp2.2\AlgorithmSharp.dll
+F:\算法\AlgorithmSharp\AlgorithmSharp\AlgorithmSharp\obj\Debug\netcoreapp2.2\AlgorithmSharp.pdb
